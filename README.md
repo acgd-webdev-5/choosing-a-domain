@@ -2,6 +2,7 @@
 summary: "Choose a domain name for you and your portfolio website—DO NOT purchase it yet."
 time: "30 minutes"
 deliverables: "One domain name"
+submit: ""
 ---
 
 # Choosing a domain
@@ -20,4 +21,4 @@ deliverables: "One domain name"
 
 ## Hand in
 
-Nothing—make sure you have a viable domain name before next class.
+Submit your chosen domain name to the Canvas assignment.
