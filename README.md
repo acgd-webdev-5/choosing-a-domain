@@ -1,11 +1,12 @@
-# Choosing a domain
-
-- Approx. completion time: **30 minutes**
-- Deliverables: **One domain name**
-
+---
+summary: "Choose a domain name for you and your portfolio website—DO NOT purchase it yet."
+time: "30 minutes"
+deliverables: "One domain name"
 ---
 
-**Choose a domain name for you and your portfolio website—DO NOT purchase it yet.**
+# Choosing a domain
+
+## Overview
 
 - Research the best domain for you—but don’t buy it.
 - **DO NOT make yourself into a company!** This is your *personal* portfolio website—so include your name.
