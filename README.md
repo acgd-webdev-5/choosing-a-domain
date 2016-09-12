@@ -2,7 +2,7 @@
 summary: "Choose a domain name for you and your portfolio website—DO NOT purchase it yet."
 time: "30 minutes"
 deliverables: "One domain name"
-submit: ""
+submit: "https://algonquin.instructure.com/courses/501960/assignments/5002542"
 ---
 
 # Choosing a domain
