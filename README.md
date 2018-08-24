@@ -17,6 +17,8 @@ submit: "https://algonquin.instructure.com/courses/847182/assignments/7464389"
 - Make sure the domain is available for purchase—[**use Hover for your domain research**](https://www.hover.com/) (good prices, Canadian, no shady business practices).
 - Be aware of the price of the TLD you’re leasing—there’s a yearly cost.
 
+**You can delay doing this assignment until you get further along in determining your brand—which you’ll be doing in another class.**
+
 ---
 
 ## Hand in
