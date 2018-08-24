@@ -21,4 +21,4 @@ submit: "https://algonquin.instructure.com/courses/847182/assignments/7464389"
 
 ## Hand in
 
-Submit your chosen domain name to the Canvas assignment.
+Submit your chosen domain name to the assignment online.
